@@ -1,0 +1,36 @@
+Data for river: Brazos River
+Data for month: 2
+Data for pollutant:  Pesticide 
+
+Data for readings:  20
+Average of readings:    0.002
+Lowest reading:         0.001
+Highest reading:        0.004
+
+Data for river: Brazos River
+Data for month: 2
+Data for pollutant:  Pesticide 
+
+Data for readings:  20
+Average of readings:    0.002
+Lowest reading:         0.001
+Highest reading:        0.004
+
+Data for river: Brazos River
+Data for month: 2
+Data for pollutant:  Pesticide 
+
+Data for readings:  20
+Average of readings:    0.002
+Lowest reading:         0.001
+Highest reading:        0.004
+
+Data for river: Brazos River
+Data for month: 2
+Data for pollutant:  Pesticide 
+
+Data for readings:  20
+Average of readings:    0.002
+Lowest reading:         0.001
+Highest reading:        0.004
+
